@@ -10,6 +10,4 @@ Use dotnet ef database update
 
 Make sure to install the nuget packages for entity framework and sql server.
 
-In the program.cs please add a cors with the url of angular app
-
 Also from swagger, copy the url to the environment in the angular app(my port is different).
